@@ -8,4 +8,5 @@ After one sabbatical year trying to figure out what I would like to study, I sta
 
 When COVID-19 hit in 2020 and the tourism industry suffered a major setback I started doing market reasearch to find new career paths and opportunities. By then I was about to turn 30 years old and after having been able to sustain myself since 20 years old, feeling like all of that could change and I would have to go back to my parents' place, amongst others, was very scary. So I decided to learn a new skill and develop myself. 
 
-By 2022 I got offered a job at [Cayman Enterprise City](https://www.caymanenterprisecity.com/) as a project coordinator. Position I still hold. CEC is a company that operates in the Special Economic Zone and hosts over 300 companies from all around the world, most of these companies being tech.
+By 2022 I got offered a job at [Cayman Enterprise City](https://www.caymanenterprisecity.com/) as a project coordinator. Position I still hold. CEC is a company that operates in the Special Economic Zone and hosts over 300 companies from all around the world, most of these companies being tech, such as Chainlink, Sol, Fat Shark, Brave, Avalanch, RealVision, etc. 
+
