@@ -11,3 +11,5 @@ When COVID-19 hit in 2020 and the tourism industry suffered a major setback I st
 In 2022 I got offered a job at [Cayman Enterprise City](https://www.caymanenterprisecity.com/) as a project coordinator. Position I still hold. CEC is a company that operates in the Special Economic Zone and hosts over 300 companies from all around the world, most of these companies being tech, such as Chainlink, Sol, Fat Shark, Brave, Avalanch, RealVision, etc. 
 
 Being surrounded by these amazing companies has made me want to learn more and develop new skills. And this is how I have arrived here! 
+
+![This is me](corporate.jpeg)
