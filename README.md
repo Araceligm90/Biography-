@@ -12,4 +12,4 @@ In 2022 I got offered a job at [Cayman Enterprise City](https://www.caymanenterp
 
 Being surrounded by these amazing companies has made me want to learn more and develop new skills. And this is how I have arrived here! 
 
-![This is me](corporate.jpeg)
+![This is me](Corporate.jpg)
